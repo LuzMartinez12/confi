@@ -1,2 +1,3 @@
 report:
-  template: "{company} was founded in {foundation_date} by {founder} the websites from this company are {web_sites}"
+  template: report:
+  template: "Equipo {equipo}, su dedicación y compromiso se reflejan en cada resultado obtenido. Sus detalles fueron: {detalles}. Nos sentimos profundamente orgullosos de su desempeño. ¡Sigamos avanzando con excelencia!"
